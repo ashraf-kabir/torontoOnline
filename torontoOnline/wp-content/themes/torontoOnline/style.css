@@ -1,0 +1,195 @@
+/*
+Theme Name: TorontoOnlineWP
+Theme URI:
+Author: Juan Pablo de la torre
+Author URI: http://www.easy-webdev.com
+Description: My First WordPress Theme
+Version: 1.0
+Licence: GNU General Public Licence or Later
+Tags: html5, css3, city, blog
+*/
+*,
+*:after,
+*:before {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, "Open Sans", sans-serif;
+    font-size: 140%;
+    line-height: 1.5;
+    color: #000;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
+}
+
+/** Resets  **/
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #a00622;
+}
+
+/** End of resets **/
+
+
+/** Header **/
+header {
+    background-color: #a00622;
+    overflow: auto;
+}
+
+header .logo img {
+    margin: 0 auto;
+    display: block;
+}
+
+header nav {
+    padding-bottom: 20px;
+}
+
+header nav ul li {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+header nav ul li.current-menu-item {
+    border-bottom: 2px solid #fff;
+}
+
+header nav ul li a {
+    color: #fff;
+    font-size: 18px;
+    font-size: 1.8rem;
+    text-decoration: none;
+    padding: 5px 0;
+}
+
+h2 {
+    font-size: 20px;
+    font-size: 2rem;
+    color: #a00622;
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-size: 1.8rem;
+    color: #a00622;
+}
+
+p {
+    color: #000000;
+    font-size: 12px;
+    text-align: justify;
+}
+
+.content {
+    margin-top: 20px !important;
+}
+
+footer nav {
+    display: none;
+}
+
+footer hr {
+    border: 2px solid #a00622;
+}
+
+footer p {
+    text-align: center;
+    font-size: 18px;
+    font-size: 1.8rem;
+}
+
+
+@media only screen and (min-width: 480px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+    header nav ul li {
+        display: inline;
+        margin-left: 20px;
+    }
+
+}
+
+@media only screen and (min-width: 992px) {
+    /** Header navigation **/
+    header .logo {
+        width: 40%;
+        float: left;
+    }
+
+    header nav {
+        float: left;
+        width: 60%;
+        margin-top: 60px;
+    }
+
+    header nav ul {
+        float: right;
+    }
+
+    /** Footer navigation **/
+    footer nav {
+        display: block;
+        margin-top: 30px;
+    }
+
+    footer nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+
+    footer nav ul li a {
+        color: #a00622;
+        font-size: 16px;
+        font-size: 1.6rem;
+        text-decoration: none;
+    }
+
+    .container {
+        width: 990px;
+        margin: 0 auto;
+    }
+
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        width: 1100px;
+        margin: 0 auto;
+    }
+}
