@@ -1,12 +1,12 @@
 /*
 Theme Name: TorontoOnlineWP
 Theme URI:
-Author: Juan Pablo de la torre
-Author URI: http://www.easy-webdev.com
-Description: My First WordPress Theme
+Author: Ashraf Kabir
+Author URI: http://fastlearn.bd.education
+Description: My Second WordPress Theme
 Version: 1.0
 Licence: GNU General Public Licence or Later
-Tags: html5, css3, city, blog
+Tags: php, html5, css3, city, blog
 */
 *,
 *:after,
@@ -174,6 +174,11 @@ h2.noimage {
     padding: 30px 0;
     border: 2px solid #a00622;
 }
+
+footer {
+    clear: both;
+}
+
 footer nav {
     display: none;
 }
@@ -188,9 +193,83 @@ footer p {
     font-size: 1.8rem;
 }
 
+/** What to Visit **/
+ul.blog-visit li {
+    width: 100%;
+    padding: 5px;
+}
+
+ul.blog-visit li .featured {
+    position: relative;
+    margin-bottom: 0px;
+}
+
+ul.blog-visit li .featured .category {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+ul.blog-visit li .featured .category a {
+    text-decoration: none;
+    background-color: #a00622;
+    padding: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-size: 1.2rem;
+    text-transform: lowercase;
+}
+
+ul.blog-visit li .content {
+    padding: 10px 20px;
+    margin-top: 0 !important;
+}
+
+ul.blog-visit li .content h2 {
+    margin: 0;
+    text-align: left;
+}
+
+ul.blog-visit li .content p {
+    font-size: 14px;
+    font-size: 1.4rem;
+    text-align: justify;
+}
+
+ul.blog-visit li .post-information {
+    background-color: #ebebeb;
+    padding: 5px 20px;
+    overflow: auto;
+}
+
+ul.blog-visit li .post-information p {
+    font-size: 14px;
+    font-size: 1.4rem;
+    color: #000;
+}
+
+ul.blog-visit li .post-information div.author {
+    float: left;
+    width: 40%;
+}
+
+ul.blog-visit li .post-information div.author span {
+    color: #a00622;
+    font-weight: bold;
+}
+
+ul.blog-visit li .post-information div.date {
+    float: right;
+    width: 40%;
+    text-align: right;
+    font-weight: bold;
+}
 
 @media only screen and (min-width: 480px) {
-
+    ul.blog-visit li {
+        float: left;
+        width: 50%;
+    }
 }
 
 @media only screen and (min-width: 768px) {
@@ -198,12 +277,22 @@ footer p {
         display: inline;
         margin-left: 20px;
     }
+
+    ul.blog-visit li {
+        width: 33.33%;
+    }
+
     /** Main Content **/
-    .primary{
+    .primary {
         float: left;
         width: 70%;
         padding-right: 20px;
     }
+
+    .primary.no-sidebar {
+        width: 100%;
+    }
+
     .secondary {
         float: right;
         width: 30%;
