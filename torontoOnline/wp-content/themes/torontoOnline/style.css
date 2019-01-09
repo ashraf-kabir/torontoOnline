@@ -118,6 +118,62 @@ p {
     margin-top: 20px !important;
 }
 
+/** Sidebar **/
+#testimonials h3 {
+    color: #a00622;
+    font-size: 20px;
+    font-size: 2rem;
+}
+
+#testimonials .textwidget {
+    font-size: 18px;
+    font-size: 1.8rem;
+    line-height: 30px;
+    color: #767676;
+    background-image: url("img/svg_quote.svg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    padding-left: 86px;
+    font-style: italic;
+}
+
+#testimonials .textwidget p {
+    font-size: 24px;
+    font-size: 2.4rem;
+}
+
+#testimonials .textwidget span {
+    display: block;
+    text-align: right;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/** Featured Image **/
+.featured {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.featured h2 {
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    background-color: #a00622;
+    color: #fff;
+    padding: 10px 20px 10px 10px;
+    text-transform: lowercase;
+}
+
+h2.noimage {
+    color: #a00622;
+    font-size: 30px;
+    font-size: 3rem;
+    text-align: center;
+    padding: 30px 0;
+    border: 2px solid #a00622;
+}
 footer nav {
     display: none;
 }
@@ -142,7 +198,22 @@ footer p {
         display: inline;
         margin-left: 20px;
     }
+    /** Main Content **/
+    .primary{
+        float: left;
+        width: 70%;
+        padding-right: 20px;
+    }
+    .secondary {
+        float: right;
+        width: 30%;
+        margin: 0;
+        clear: none;
+    }
 
+    #testimonials {
+        padding-top: 60px;
+    }
 }
 
 @media only screen and (min-width: 992px) {
