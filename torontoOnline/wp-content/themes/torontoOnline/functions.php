@@ -1,9 +1,13 @@
 <?php
-function torontoOnline_scripts()
-{
-    wp_enqueue_style('style', get_stylesheet_uri());
-}
+function torontoOnline_scripts() {
+    wp_enqueue_style('style', get_stylesheet_uri() );
 
+    wp_enqueue_style('bxslidercss', get_stylesheet_directory_uri() . '/css/jquery.bxslider.css' );
+
+    wp_enqueue_script('jquery');
+    wp_enqueue_script('bxsliderjs', get_stylesheet_directory_uri() . '/js/jquery.bxslider.min.js', array('jquery'), '4.1', true );
+    wp_enqueue_script('scripts', get_stylesheet_directory_uri() . '/js/scripts.js', array('jquery'), '1.0', true );
+}
 add_action('wp_enqueue_scripts', 'torontoOnline_scripts');
 
 /** navigation **/

@@ -10,61 +10,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="437" lean-forward="true" selection-start-line="437" selection-end-line="437" />
+            <state relative-caret-position="446">
+              <caret line="415" column="22" lean-forward="true" selection-start-line="415" selection-start-column="22" selection-end-line="415" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="115" selection-start-line="8" selection-start-column="115" selection-end-line="8" selection-end-column="115" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page-nosidebar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/single.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/category.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="399">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -75,17 +55,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/home.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/page-what-visit.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/category.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/page-nosidebar.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/js/script.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/js/scripts.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/functions.php" />
       </list>
     </option>
   </component>
@@ -94,8 +77,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="446" />
-    <option name="y" value="99" />
+    <option name="x" value="743" />
+    <option name="y" value="178" />
     <option name="width" value="1170" />
     <option name="height" value="803" />
   </component>
@@ -130,6 +113,22 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="torontoOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="torontoOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -143,8 +142,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\torontoOnline\wp-content\themes\torontoOnline\img" />
       <recent name="C:\xampp\htdocs\torontoOnline\wp-content\themes\torontoOnline" />
+      <recent name="C:\xampp\htdocs\torontoOnline\wp-content\themes\torontoOnline\css" />
+      <recent name="C:\xampp\htdocs\torontoOnline\wp-content\themes\torontoOnline\js" />
+      <recent name="C:\xampp\htdocs\torontoOnline\wp-content\themes\torontoOnline\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -178,16 +179,18 @@
       <workItem from="1547302009124" duration="1826000" />
       <workItem from="1547391097893" duration="1720000" />
       <workItem from="1547466085410" duration="8108000" />
+      <workItem from="1547478823995" duration="6668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31753000" />
+    <option name="totallyTimeSpent" value="38421000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="446" y="99" width="1170" height="803" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22522523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -220,34 +223,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/img/logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page-what-visit.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -262,10 +237,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/category.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page-nosidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -276,24 +251,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="24" />
+        <state relative-caret-position="200">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page-nosidebar.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="160">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="437" lean-forward="true" selection-start-line="437" selection-end-line="437" />
+        <state relative-caret-position="446">
+          <caret line="415" column="22" lean-forward="true" selection-start-line="415" selection-start-column="22" selection-end-line="415" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/js/jquery.bxslider.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="115" selection-start-line="8" selection-start-column="115" selection-end-line="8" selection-end-column="115" />
         </state>
       </provider>
     </entry>

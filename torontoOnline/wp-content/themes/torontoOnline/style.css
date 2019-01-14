@@ -386,6 +386,36 @@ ul.blog-visit li .post-information div.date {
     color: #fff;
 }
 
+/** front page **/
+
+/** latest 2 entries **/
+
+div.bottom-front-page {
+    clear: both;
+}
+
+div.bottom-front-page h2 {
+    text-align: left;
+    text-transform: lowercase;
+}
+
+div.bottom-front-page li {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+div.bottom-front-page li h3 {
+    margin: 10px 0;
+}
+
+div.bottom-front-page li a.read-more, a.more-link {
+    font-weight: bold;
+    display: block;
+    text-align: right;
+    font-size: 14px;
+    font-size: 1.4rem;
+}
+
 @media only screen and (min-width: 480px) {
     .blog article img, .category article img {
         float: left;
@@ -402,6 +432,26 @@ ul.blog-visit li .post-information div.date {
         float: left;
         width: 50%;
     }
+    /** front page **/
+
+    div.bottom-front-page .about-us {
+        float: left;
+        width: 30%;
+        padding-right: 20px;
+    }
+
+    /** latest 2 entries **/
+    div.bottom-front-page div.blog-tips {
+        float: right;
+        width: 70%;
+    }
+
+    div.bottom-front-page li {
+        float: left;
+        width: 50%;
+        padding: 0 10px;
+    }
+
 }
 
 @media only screen and (min-width: 768px) {

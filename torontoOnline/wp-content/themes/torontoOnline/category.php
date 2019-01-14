@@ -9,7 +9,6 @@
             <a href="<?php the_permalink(); ?>">
                 <?php the_post_thumbnail('medium-blog'); ?>
             </a>
-
             <div class="content-post">
                 <h2><?php the_title(); ?></h2>
 
