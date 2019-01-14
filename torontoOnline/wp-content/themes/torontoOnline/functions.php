@@ -24,6 +24,7 @@ function theme_widgets() {
         'after_title'  => '</h3>',
     ) );
 }
+
 add_action('widgets_init', 'theme_widgets');
 
 /** Add Featured Images */
