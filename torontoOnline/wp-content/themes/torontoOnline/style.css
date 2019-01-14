@@ -388,6 +388,36 @@ ul.blog-visit li .post-information div.date {
 
 /** front page **/
 
+/** Widgets Zone **/
+.what-to-visit .widget-title {
+    display: none;
+}
+
+.what-to-visit .widget_sp_image {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.what-to-visit .widget_sp_image img {
+    margin: 0 auto;
+    display: block;
+}
+
+.what-to-visit .widget_sp_image .widget_sp_image-description {
+    padding: 0 40px;
+}
+
+.what-to-visit .widget_sp_image p {
+    text-align: center;
+    background-color: #a00622;
+    border-radius: 20px;
+    font-size: 24px;
+    font-size: 2.4rem;
+    font-weight: bold;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 /** latest 2 entries **/
 
 div.bottom-front-page {
@@ -489,6 +519,12 @@ div.bottom-front-page li a.read-more, a.more-link {
     /** Contact form **/
     .wpcf7 {
         width: 60%;
+    }
+
+    /** Widgets Zone Front Page **/
+    .what-to-visit .widget_sp_image {
+        float: left;
+        width: 33.33%;
     }
 }
 

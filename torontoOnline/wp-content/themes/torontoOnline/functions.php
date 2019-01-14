@@ -22,6 +22,16 @@ function theme_widgets() {
         'name' 		  => __('Sidebar Testimonials'),
         'id'		  => 'testimonials',
         'description' => 'Testimonials Widgets',
+        'before_widget' => '<div id="%1$s" class="widget %2$s">',
+        'after_widget'  => '</div>',
+        'before_title' => '<h3 class="widget-title">',
+        'after_title'  => '</h3>',
+    ) );
+
+    register_sidebar(array(
+        'name' 		  => __('Image for the Front Page'),
+        'id'		  => 'front-page',
+        'description' => 'Widget for the front-page',
         'before_widget' => '<aside id="%1$s" class="widget %2$s">',
         'after_widget'  => '</aside>',
         'before_title' => '<h3 class="widget-title">',
