@@ -1,15 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554ea0a2-d1e4-4b88-b3a0-7e6d2b01284c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="554ea0a2-d1e4-4b88-b3a0-7e6d2b01284c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/activate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/connect-jp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/enter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/predefined.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/setup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/hello-dolly/hello.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/hello-dolly/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles-dark-mode.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles-dark-mode.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/edit-contact-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/edit-contact-form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/admin-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/admin-functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/config-validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/config-validator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/help-tabs.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/help-tabs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/tag-generator.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/tag-generator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/tag-generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/tag-generator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/capabilities.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/capabilities.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/config-validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/config-validator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form-functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form-template.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form-template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/form-tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/form-tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/form-tags-manager.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/form-tags-manager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/formatting.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/formatting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/integration.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/integration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/l10n.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/l10n.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/pipe.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/pipe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/rest-api.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/rest-api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/shortcodes.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/shortcodes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/special-mail-tags.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/special-mail-tags.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/submission.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/submission.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/upgrade.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/upgrade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/acceptance.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/acceptance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/akismet.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/akismet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/checkbox.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/checkbox.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/constant-contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/constant-contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/count.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/count.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/date.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/date.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/file.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/file.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/flamingo.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/flamingo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/hidden.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/hidden.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/listo.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/listo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/number.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/number.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/quiz.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/quiz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/recaptcha.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/recaptcha.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/response.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/response.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/select.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/select.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/submit.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/submit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/textarea.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/textarea.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/uninstall.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/uninstall.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/wp-contact-form-7.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/wp-contact-form-7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/css/progressbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/css/progressbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/dist/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/dist/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/includes/class-regeneratethumbnails-regenerator.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/includes/class-regeneratethumbnails-regenerator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/includes/class-regeneratethumbnails-rest-controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/includes/class-regeneratethumbnails-rest-controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/regenerate-thumbnails.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/regenerate-thumbnails/regenerate-thumbnails.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,29 +127,8 @@
       <find>h2</find>
     </findStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/home.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/sidebar.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/page-what-visit.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/single.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/page-nosidebar.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/category.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/js/script.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/js/scripts.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/template-parts/slider.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/template-parts/aboutus.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/template-parts/traveltips.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/torontoOnline/front-page.php" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpServers">
     <servers />
@@ -57,44 +140,19 @@
     <option name="width" value="1170" />
     <option name="height" value="803" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="torontoOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="torontoOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="torontoOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="torontoOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="torontoOnline" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1VqQ6R9MU0mNLcSai7p6MoCj41c" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -108,15 +166,15 @@
       <recent name="C:\xampp\htdocs\torontoOnline\wp-content\themes\torontoOnline\img" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -140,166 +198,23 @@
       <workItem from="1547391097893" duration="1720000" />
       <workItem from="1547466085410" duration="8108000" />
       <workItem from="1547478823995" duration="10536000" />
+      <workItem from="1577977971968" duration="256000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42289000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="349" y="112" width="1170" height="803" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22882883" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1577978367260">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1577978367260" />
+  </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>C:\xampp\htdocs\torontoOnline</wordpressPath>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/home.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/img/logo.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page-what-visit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page-nosidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/js/jquery.bxslider.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="526" column="21" selection-start-line="526" selection-start-column="21" selection-end-line="526" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/front-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/template-parts/aboutus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/template-parts/tips.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/torontoOnline/template-parts/slider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
